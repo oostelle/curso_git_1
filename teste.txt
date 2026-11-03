@@ -2,11 +2,9 @@ Testando repo 12
 a
 b
 c
-<<<<<<< HEAD
-d
-=======
 d
 e
+a
+d
 f
-g
->>>>>>> teste_criacao2
+e
